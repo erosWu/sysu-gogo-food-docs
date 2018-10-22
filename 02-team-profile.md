@@ -16,7 +16,7 @@ title: 关于团队
 |18214792|罗裴然|[payne](https://github.com/micblo)|项目经理、架构师、DevOps 工程师|
 |18214661|苏吟雪|[suyxed](https://github.com/suyxed)|JS工程师、UI/UX设计师，测试工程师|
 |18214731|戈峰|[PeakGe](https://github.com/PeakGe)|Java工程师，JS工程师，数据库DBA|
-|18214730|高振量|[FateStonesGate](https://github.com/FateStonesGate]|产品经理、Java工程师|
+|18214730|高振量|[FateStonesGate](https://github.com/FateStonesGate)|产品经理、Java工程师|
 
 **具体分工与个人宣言**
 
