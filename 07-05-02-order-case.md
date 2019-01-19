@@ -23,4 +23,4 @@ author: 戈 苏
 
 [2]:images/sys-sequence-diagram/order_v2.png
 
-[3]:
+[3]:images/usecase-design/order-design/order-class.png
