@@ -38,7 +38,12 @@ layout: default
     - 9.1 XX短视频
     - 9.2 XX短视频
 * X1 meet_recording
-    - inception meeting (yy/mm/dd)
+    - [inception meeting(2018/09/26)](inception-meeting)
+    - [iteration1 meeting(2018/10/10)](Meeting-Record-of-Iteration1)
+    - [initial design meeting(2018/10/24)](Meeting-Record-of-Initial-Design)
+    - [meeting record of detail design(2018/11/15)](Meeting-Record-of-detail-Design)
+    - [sprint meeting(2018/12/03)](Sprint-Meeting-Record)
+    - [iteration2 meeting(2018/12/09)](iteration2-review-meeting)
 * X2 Tech/Work Report
     - 学号-title
 * X3 Final Report
