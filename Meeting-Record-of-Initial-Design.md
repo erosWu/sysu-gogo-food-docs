@@ -1,4 +1,14 @@
+---
+layout: default
+title: Meeting Record of Initial Design
+author: 戈
+---
+
 # Meeting Record of Initial Design
+{:.no_toc}
+
+* 目录
+{:toc}
 
 2018.10.24 19.00-21.10
 
