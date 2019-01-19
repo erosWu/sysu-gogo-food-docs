@@ -16,7 +16,7 @@ layout: default
     - 6.2 [Use Cases](06-02-use-case)（用例+活动图）
     - 6.3 [Domian Models](06-03-domain)（领域模型）
     - 6.4 [State Models](06-04-statement)（状态模型）
-    - 6.5 [System Sequence Diagrams](06-05-System-Sequence-Diagram)（功能模型）
+    - 6.5 [System Sequence Diagrams](06-05-System-Sequence-Diagrams)（功能模型）
     - 6.6 [Supplementary Requirements](06-06-supplementary-requirement)（补充需求）
 * 7、Design（设计）
     - 7.1 UI design
