@@ -23,7 +23,8 @@ layout: default
         - XX 用例 UI设计
     - 7.2 Database design
         - 7.2.1 [用户及权限系统与数据表设计](07-02-01-databasedesign)（补充需求）
-        - 7.2.2 XX子系统数据课设计 
+        - 7.2.2 [XX子系统数据课设计](07-02-01-databasedesign)
+        - 7.2.3 [ER图](07-02-03-ER)
         - 7.2.x 第三方数据评审结果
     - 7.3 [API design](07-07-api-design)
     - 7.4 Software Architecture Document
