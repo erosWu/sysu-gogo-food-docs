@@ -10,6 +10,6 @@ author: 罗
 * 目录
 {:toc}
 
-## 用例图
+## EER图
 
 ![EER图v1](images/EER.png)
