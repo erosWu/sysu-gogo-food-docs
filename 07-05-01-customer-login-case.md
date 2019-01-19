@@ -19,8 +19,8 @@ author: 戈 苏
 ## 类图
 ![][3]
 
-[1]:
+[1]:images/usecase-design/customer-login-design/customer-login-usecase.png
 
 [2]:images/sys-sequence-diagram/login_v2.png
 
-[3]:
+[3]:images/usecase-design/customer-login-design/customer-login-class.png
