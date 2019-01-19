@@ -1,3 +1,15 @@
+---
+layout: default
+title: 功能模型
+author: 戈
+---
+
+# 功能模型
+{:.no_toc}
+
+* 目录
+{:toc}
+
 # System Sequence Diagram
 ---
 
