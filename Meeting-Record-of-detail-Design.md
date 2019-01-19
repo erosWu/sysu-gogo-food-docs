@@ -1,4 +1,14 @@
+---
+layout: default
+title: Meeting Record of detail Design
+author: 戈
+---
+
 # Meeting Record of detail Design
+{:.no_toc}
+
+* 目录
+{:toc}
 
 2018.11.15 20.00-22.15
 
