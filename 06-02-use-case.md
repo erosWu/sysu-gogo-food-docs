@@ -38,6 +38,8 @@ author: 高
 -2a. 顾客尚未注册
 
   -2a1. 自动注册
+  
+  ![顾客登录][1]
 
 ## 	商家登录 
 ### 简要说明
@@ -63,7 +65,10 @@ author: 高
 -2a. 用户名密码错误
 
   -2a1. 提示错误
-
+  
+  ![商家登录][2]
+  
+ ![主管登录][3]
 ## 	取号排队 
 ### 简要说明
 
@@ -90,6 +95,9 @@ author: 高
 -2a. 已超时，过号
 
   -2a.1 提示错误
+  
+   ![排队取号][4]
+
 
 ## 	顾客领取号码牌 
 ### 简要说明
@@ -143,6 +151,8 @@ author: 高
 -1a. 当前已存在提交的订单
 
   -1a.1 进入加菜界面
+  
+   ![点餐][5]
 
 ## 浏览菜品 
 ### 简要说明
@@ -264,6 +274,8 @@ author: 高
 
 -2. 顾客/餐厅职员选择查询当前订单或历史订单界面并进入
 
+ ![点餐流程][6]
+
 ## 职员查询当前订单 
 ### 简要说明
 
@@ -381,6 +393,8 @@ author: 高
 
 -4. 顾客可以选择发表点评和查看历史点评
 
+ ![点评][7]
+
 ## 主管点评管理 
 ### 简要说明
 
@@ -466,6 +480,20 @@ author: 高
  
 - 用况名：主管管理桌位
 描述：主管对桌位编号，生成桌子对应的二维码
+
+ ![主管工作][8]
+
+
+
+ [1]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/user_login.png
+ [2]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/staff_login.png
+[3]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/admin_manage.png
+[4]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/queue.png
+[5]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/consumer_order.png
+[6]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/order_dishs.png
+[7]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/comment.png
+[8]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/admin_manage_dishes.png
+
 
 
 
