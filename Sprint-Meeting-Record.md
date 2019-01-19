@@ -1,4 +1,14 @@
+---
+layout: default
+title: Sprint Meeting Record
+author: 戈
+---
+
 # Sprint Meeting Record
+{:.no_toc}
+
+* 目录
+{:toc}
 
 2018.12.03 21:00-22:45
 
