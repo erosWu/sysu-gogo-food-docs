@@ -1,4 +1,14 @@
+---
+layout: default
+title: Meeting Record of Iteration1
+author: 戈
+---
+
 # Meeting Record of Iteration1
+{:.no_toc}
+
+* 目录
+{:toc}
 
 2018.10.10 20.00-21.00
 
