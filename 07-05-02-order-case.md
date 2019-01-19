@@ -19,7 +19,7 @@ author: 戈 苏
 ## 类图
 ![][3]
 
-[1]:
+[1]:images/usecase-design/order-design/order-case.png
 
 [2]:images/sys-sequence-diagram/order_v2.png
 
