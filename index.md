@@ -45,7 +45,7 @@ layout: default
     - [18214792-micblo](X2-18214792-es6)
 * X3 Final Report
     - [18214792-micblo](X3-18214792-micblo)
-    - [18214661-suyxed](X3-18214661-suyxed)
+    - [18214661-suyxed](X3-18214661-Suyxed)
     - [18214731-PeakGe](X3-18214731-PeakGe)
     - [18214730-FateStonesGate](X3-18214730-FateStonesGate)
     - [小组分工与贡献率说明](X3-contribution)
