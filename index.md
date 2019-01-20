@@ -19,10 +19,9 @@ layout: default
     - 6.5 [System Sequence Diagrams](06-05-System-Sequence-Diagram)（功能模型）
     - 6.6 [Supplementary Requirements](06-06-supplementary-requirement)（补充需求）
 * 7、Design（设计）
-    - 7.1 UI design
-        - XX 用例 UI设计
+    - 7.1 [UI design](07-01-ui-design)
     - 7.2 [Database design](07-02-database-design)
-    - 7.3 [API design](https://app.swaggerhub.com/apis/micblo/gogo-food/1.0.0#/)
+    - 7.3 [API design](https://app.swaggerhub.com/apis/micblo/gogo-food/1.0.0)
     - 7.4 [Software Architecture Document](07-04-architecture-doc)
     - 7.5 Usecase design
          - 7.5.1 [顾客登录用例设计](07-05-01-customer-login-case)
