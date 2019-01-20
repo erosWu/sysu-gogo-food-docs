@@ -34,7 +34,7 @@ docker-compose up -d --build
 
 ## 配置说明
 
-## Egg.js
+### Egg.js
 
 `build` 配置为应用根目录，默认为 `node-web`
 
@@ -50,13 +50,13 @@ egg.js 默认时候通过 daemon 启动，所以 Dockerfile 的启动命令这�
 参考文章：
 [在Docker中部署Egg.js应用及Docker常用命令 | Reno's Blog](https://beautycss.net/2018/06/06/deploy-eggjs-app-with-docker/)
 
-## Nginx
+### Nginx
 
 conf.d/default.conf 为nginx配置
 
 www 默认映射 `/usr/share/nginx/html`，静态文件可以放该目录
 
-## MySQL
+### MySQL
 
 密码默认是 root（在 docker-compose.yml 修改），端口3306
 
