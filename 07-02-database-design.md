@@ -22,6 +22,6 @@ author: 罗
 
 ## EER图
 
-[![EER图v1](images/EER.png)](images/EER.png)
+[![EER图v2](images/EERv2.png)](images/EERv2.png)
 
 > Author: 罗
