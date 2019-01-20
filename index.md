@@ -28,7 +28,7 @@ layout: default
          - 7.5.2 [顾客点餐下单用例设计](07-05-02-order-case)
 * 8、生产规范与指南
     - 8.1 [代码规范](08-01-coding-rules)
-    - 8.2 [REST API 设计规范](https://app.swaggerhub.com/apis/micblo/gogo-food/1.0.0)
+    - 8.2 [REST API 设计规范](08-02-restful-api-rules)
     - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
     - 8.4 部署说明
 * 9、成品展示
