@@ -32,7 +32,7 @@ layout: default
     - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-architecture)
     - 8.4 [部署说明](08-04-run-doc)
 * 9、成品展示
-    - 9.1 XX短视频
+    - 9.1 点菜下单短视频
     - 9.2 XX短视频
 * X1 meet_recording
     - [inception meeting(2018/09/26)](inception-meeting)
@@ -42,7 +42,7 @@ layout: default
     - [sprint meeting(2018/12/03)](Sprint-Meeting-Record)
     - [iteration2 meeting(2018/12/09)](iteration2-review-meeting)
 * X2 Tech/Work Report
-    - 学号-title
+    - [18214792-micblo](X2-18214792-es6)
 * X3 Final Report
-    - 学号-title
-    - 小组分工与贡献率说明
+    - [18214792-micblo](X3-18214792-micblo)
+    - [小组分工与贡献率说明](X3-contribution)
