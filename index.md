@@ -21,18 +21,14 @@ layout: default
 * 7、Design（设计）
     - 7.1 UI design
         - XX 用例 UI设计
-    - 7.2 Database design
-        - 7.2.1 [用户及权限系统与数据表设计](07-02-01-databasedesign)（补充需求）
-        - 7.2.2 [XX子系统数据课设计](07-02-01-databasedesign)
-        - 7.2.3 [ER图](07-02-03-ER)
-        - 7.2.x 第三方数据评审结果
-    - 7.3 [API design](07-07-api-design)
-    - 7.4 Software Architecture Document
+    - 7.2 [Database design](07-02-database-design)
+    - 7.3 [API design](https://app.swaggerhub.com/apis/micblo/gogo-food/1.0.0#/)
+    - 7.4 [Software Architecture Document](07-04-architecture-doc)
     - 7.5 Usecase design
          - 7.5.1 [顾客登录用例设计](07-05-01-customer-login-case)
          - 7.5.2 [顾客点餐下单用例设计](07-05-02-order-case)
 * 8、生产规范与指南
-    - 8.1 XX 代码规范
+    - 8.1 [代码规范](08-01-coding-rules)
     - 8.2 [REST API 设计规范](https://app.swaggerhub.com/apis/micblo/gogo-food/1.0.0)
     - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
     - 8.4 部署说明

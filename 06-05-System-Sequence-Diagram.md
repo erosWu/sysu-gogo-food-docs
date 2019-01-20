@@ -51,24 +51,24 @@ author: 戈
 ![][11]
 
 
-[1]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/user_login.png
+[1]:images/sys-sequence-diagram/user_login.png
 
-[2]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/staff_register.png
+[2]:images/sys-sequence-diagram/staff_register.png
 
-[3]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/staff_login.png
+[3]:images/sys-sequence-diagram/staff_login.png
 
-[4]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/consumer_cancel_order.png
+[4]:images/sys-sequence-diagram/consumer_cancel_order.png
 
-[5]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/admin_query_order.png
+[5]:images/sys-sequence-diagram/admin_query_order.png
 
-[6]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/order.png
+[6]:images/sys-sequence-diagram/order.png
 
-[7]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/accept_order.png
+[7]:images/sys-sequence-diagram/accept_order.png
 
-[8]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/refuse_order.png
+[8]:images/sys-sequence-diagram/refuse_order.png
 
-[9]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/admin_add_dishes.png
+[9]:images/sys-sequence-diagram/admin_add_dishes.png
 
-[10]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/admin_delete_dishes.png
+[10]:images/sys-sequence-diagram/admin_delete_dishes.png
 
-[11]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/sys-sequence-diagram/admin_modify_dishes.png
+[11]:images/sys-sequence-diagram/admin_modify_dishes.png

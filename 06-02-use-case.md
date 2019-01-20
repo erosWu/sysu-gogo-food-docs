@@ -41,7 +41,8 @@ author: 高
   
   ![顾客登录][1]
 
-## 	商家登录 
+## 	商家登录
+
 ### 简要说明
 
  - 用例名称：商家登录
@@ -70,6 +71,7 @@ author: 高
   
  ![主管登录][3]
 ## 	取号排队 
+
 ### 简要说明
 
  - 用例名称：提供取号排队以及查看当前排队位置的功能
@@ -449,6 +451,7 @@ author: 高
   -3a.2顾客重新打分
 
 ## 主管统计收入 
+
 ### 简要说明
 
  - 用例名称：统计收入
@@ -483,17 +486,11 @@ author: 高
 
  ![主管工作][8]
 
-
-
- [1]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/user_login.png
- [2]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/staff_login.png
-[3]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/admin_manage.png
-[4]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/queue.png
-[5]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/consumer_order.png
-[6]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/order_dishs.png
-[7]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/comment.png
-[8]:https://raw.githubusercontent.com/sysu-gogo/sysu-gogo-food-docs/gh-pages/images/activity/admin_manage_dishes.png
-
-
-
-
+[1]:images/activity/user_login.png
+[2]:images/activity/staff_login.png
+[3]:images/activity/admin_manage.png
+[4]:images/activity/queue.png
+[5]:images/activity/consumer_order.png
+[6]:images/activity/order_dishs.png
+[7]:images/activity/comment.png
+[8]:images/activity/admin_manage_dishes.png

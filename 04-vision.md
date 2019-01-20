@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 项目愿景
+author: 罗、苏
 ---
 
 # 项目愿景

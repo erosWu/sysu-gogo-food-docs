@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 关于团队
+author: 罗
 ---
 
 # 关于团队

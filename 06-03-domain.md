@@ -10,4 +10,3 @@ author: 罗
 ## 领域模型
 
 ![领域模型v1](images/domain-diagram-v1.png)
-
