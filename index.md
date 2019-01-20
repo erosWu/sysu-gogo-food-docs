@@ -32,8 +32,7 @@ layout: default
     - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-architecture)
     - 8.4 [部署说明](08-04-run-doc)
 * 9、成品展示
-    - 9.1 点菜下单短视频
-    - 9.2 XX短视频
+    - 9.1 [点菜下单短视频](https://app.scnu.edu.cn/iscnu/project/gogo-food.mp4)
 * X1 meet_recording
     - [inception meeting(2018/09/26)](inception-meeting)
     - [iteration1 meeting(2018/10/10)](Meeting-Record-of-Iteration1)
