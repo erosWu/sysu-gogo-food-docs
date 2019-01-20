@@ -1,7 +1,6 @@
 ﻿---
 layout: default
 title: 高振量个人总结
-author: 罗
 ---
 
 # 高振量个人总结
