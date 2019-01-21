@@ -35,7 +35,161 @@ MySQL 提供了数据的持久化服务
 
 ### 小程序
 
+```
+.
+├── app.js
+├── app.json
+├── app.wxss
+├── components
+│   ├── cart
+│   │   ├── bar.js
+│   │   ├── bar.json
+│   │   ├── bar.wxml
+│   │   ├── bar.wxss
+│   │   ├── count-picker.js
+│   │   ├── count-picker.json
+│   │   ├── count-picker.wxml
+│   │   ├── count-picker.wxss
+│   │   ├── list.js
+│   │   ├── list.json
+│   │   ├── list.wxml
+│   │   ├── list.wxss
+│   │   ├── modal
+│   │   │   ├── select-customer-count.js
+│   │   │   ├── select-customer-count.json
+│   │   │   ├── select-customer-count.wxml
+│   │   │   └── select-customer-count.wxss
+│   │   ├── specification.js
+│   │   ├── specification.json
+│   │   ├── specification.wxml
+│   │   ├── specification.wxss
+│   │   ├── submit-order-bar.js
+│   │   ├── submit-order-bar.json
+│   │   ├── submit-order-bar.wxml
+│   │   └── submit-order-bar.wxss
+│   ├── food
+│   │   ├── category-list.js
+│   │   ├── category-list.json
+│   │   ├── category-list.wxml
+│   │   ├── category-list.wxss
+│   │   ├── menu-list-item.js
+│   │   ├── menu-list-item.json
+│   │   ├── menu-list-item.wxml
+│   │   ├── menu-list-item.wxss
+│   │   ├── menu-list.js
+│   │   ├── menu-list.json
+│   │   ├── menu-list.wxml
+│   │   ├── menu-list.wxss
+│   │   ├── search-box.js
+│   │   ├── search-box.json
+│   │   ├── search-box.wxml
+│   │   └── search-box.wxss
+│   └── iview
+├── config.js
+├── config.server.default.js
+├── config.server.js
+├── pages
+│   ├── food
+│   │   ├── cart.js
+│   │   ├── cart.json
+│   │   ├── cart.wxml
+│   │   ├── cart.wxss
+│   │   ├── detail.js
+│   │   ├── detail.json
+│   │   ├── detail.wxml
+│   │   ├── detail.wxss
+│   │   ├── menu.js
+│   │   ├── menu.json
+│   │   ├── menu.wxml
+│   │   ├── menu.wxss
+│   │   ├── search.js
+│   │   ├── search.json
+│   │   ├── search.wxml
+│   │   └── search.wxss
+│   ├── index
+│   │   ├── index.js
+│   │   ├── index.json
+│   │   ├── index.wxml
+│   │   └── index.wxss
+│   ├── order
+│   │   ├── comment.js
+│   │   ├── comment.json
+│   │   ├── comment.wxml
+│   │   ├── comment.wxss
+│   │   ├── detail.js
+│   │   ├── detail.json
+│   │   ├── detail.wxml
+│   │   ├── detail.wxss
+│   │   ├── index.js
+│   │   ├── index.json
+│   │   ├── index.wxml
+│   │   └── index.wxss
+│   └── queue
+│       ├── index.js
+│       ├── index.json
+│       ├── index.wxml
+│       └── index.wxss
+├── project.config.json
+├── service
+│   ├── auth.js
+│   ├── cart.js
+│   ├── category.js
+│   ├── customer.js
+│   ├── desk.js
+│   ├── food.js
+│   ├── order.js
+│   └── util.js
+└── utils
+    └── util.js
+```
+
 ### 后端
+
+```
+.
+├── app
+│   ├── controller
+│   │   ├── auth.js
+│   │   ├── category.js
+│   │   ├── desk.js
+│   │   ├── desk_type.js
+│   │   ├── file.js
+│   │   ├── food.js
+│   │   ├── order.js
+│   │   └── specification.js
+│   ├── middleware
+│   │   └── auth.js
+│   ├── model
+│   │   ├── category.js
+│   │   ├── comment.js
+│   │   ├── customer.js
+│   │   ├── desk.js
+│   │   ├── desk_type.js
+│   │   ├── file.js
+│   │   ├── food_category.js
+│   │   ├── food_comment.js
+│   │   ├── food_image.js
+│   │   ├── food.js
+│   │   ├── order_item.js
+│   │   ├── order.js
+│   │   ├── specification.js
+│   │   └── staff.js
+│   ├── public
+│   ├── router.js
+│   └── service
+│       ├── auth.js
+│       ├── desk.js
+│       ├── food.js
+│       └── order.js
+├── app.js
+├── appveyor.yml
+├── config
+│   ├── config.default.js
+│   ├── config.local.js
+│   └── plugin.js
+├── package.json
+└── README.md
+```
 
 ## 与 ECB 关系
 
